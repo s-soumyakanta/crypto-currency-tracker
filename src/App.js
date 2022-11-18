@@ -1,9 +1,15 @@
-import React from "react";
+import { React } from "react";
+import Nav from "./components/Nav"
+import CoinTable from "./components/CoinTable";
 
 
 
-export default function App(){
-  return <>
-  <h1>Hello World !</h1>
-  </>
+export default function App() {
+
+  return (
+    <div>
+      <Nav />
+      <CoinTable />
+    </div>
+  )
 }
