@@ -14,7 +14,7 @@ export default function CoinTable() {
     return (
         <div className="container">
             <div className="serch">Serch</div>
-            <div className="overflow-x-auto  block whitespace-nowrap px-2 my-4 " >
+            <div className="overflo w-x-auto  block whitespace-nowrap px-2 my-4 ">
                 <table>
                     <tr>
                         <th>Rank</th>
