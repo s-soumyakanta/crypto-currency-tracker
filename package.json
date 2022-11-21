@@ -1,6 +1,7 @@
 {
   "name": "crypto-currency-tracker",
   "version": "0.1.0",
+  "homepage": "https://s-soumyakanta.github.io/crypto-currency-tracker",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
