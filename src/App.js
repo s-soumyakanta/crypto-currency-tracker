@@ -1,7 +1,7 @@
 import { React } from "react";
 import Nav from "./components/Nav"
 import CoinTable from "./components/CoinTable";
-
+import Footer from "./components/Footer";
 
 
 export default function App() {
@@ -10,6 +10,7 @@ export default function App() {
     <div>
       <Nav />
       <CoinTable />
+      <Footer />
     </div>
   )
 }
